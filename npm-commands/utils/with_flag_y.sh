@@ -1,6 +1,6 @@
 #! /bin/bash
 
-source ~/bash-sources/helpers/colors.sh
+source ~/bash-sources/npm-commands/utils/colors.sh
 
 with_flag_y() {
   while true; do

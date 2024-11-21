@@ -1,6 +1,6 @@
 #! /bin/bash
 
-source ~/bash-sources/helpers/colors.sh
+source ~/bash-sources/npm-commands/utils/colors.sh
 
 source ~/bash-sources/npm-commands/utils/detect_package_json.sh
 source ~/bash-sources/npm-commands/utils/detect_lock_file.sh

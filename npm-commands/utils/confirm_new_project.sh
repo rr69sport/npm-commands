@@ -1,6 +1,6 @@
 #! /bin/bash
 
-source ~/bash-sources/helpers/colors.sh
+source ~/bash-sources/npm-commands/utils/colors.sh
 
 confirm_new_project() {
   while true; do

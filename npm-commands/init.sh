@@ -1,6 +1,6 @@
 #! /bin/bash
 
-source ~/bash-sources/helpers/colors.sh
+source ~/bash-sources/npm-commands/utils/colors.sh
 
 source ~/bash-sources/npm-commands/utils/confirm_new_project.sh
 source ~/bash-sources/npm-commands/utils/select_package_manager.sh
